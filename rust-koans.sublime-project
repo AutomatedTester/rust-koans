@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/dburns/development/rust-koans",
+			"folder_exclude_patterns": ["build"],
+			"file_exclude_patterns": ["*.rustkoans"]
+		}
+	]
+}
